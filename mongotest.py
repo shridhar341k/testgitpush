@@ -10,6 +10,12 @@ d={
     "email":"sudhanshi@ineuron.ai",
     "surname":"kumar"
 }
+d={
+    "name":"Shridhar",
+    "email":"shridhar341k@gmail.com",
+    "surname":"Raghu"
+}
+
 db1 = client['mongotest']
 coll=db1['test']
 coll.insert_one(d)
