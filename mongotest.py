@@ -10,7 +10,7 @@ d={
     "email":"sudhanshi@ineuron.ai",
     "surname":"kumar"
 }
-d={
+d={ 
     "name":"Shridhar",
     "email":"shridhar341k@gmail.com",
     "surname":"Raghu"
